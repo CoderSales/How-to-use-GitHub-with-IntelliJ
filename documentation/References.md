@@ -40,3 +40,9 @@ git remote remove origin
 ```
 
 [How to remove remote origin from a Git repository | StackOverflow](https://stackoverflow.com/questions/16330404/how-to-remove-remote-origin-from-a-git-repository)
+
+____
+
+leads to above reference
+
+Google Search String: [how to unset rm local from remote repository git](https://www.google.com/search?q=how+to+unset+rm+local+from+remote+repository+git&oq=how+to+unset+rm+local+from+remote+repository+git&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIGCAEQRRhAMgYIAhBFGEDSAQkxMTg3NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
