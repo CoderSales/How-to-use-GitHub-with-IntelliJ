@@ -46,3 +46,13 @@ ____
 leads to above reference
 
 Google Search String: [how to unset rm local from remote repository git](https://www.google.com/search?q=how+to+unset+rm+local+from+remote+repository+git&oq=how+to+unset+rm+local+from+remote+repository+git&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIGCAEQRRhAMgYIAhBFGEDSAQkxMTg3NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+
+____
+
+```bash
+git remote add origin insert-a-repository-url.git
+```
+
+[git - remote add origin vs remote set-url origin | StackOverflow](https://stackoverflow.com/questions/42830557/git-remote-add-origin-vs-remote-set-url-origin)
+
+____
