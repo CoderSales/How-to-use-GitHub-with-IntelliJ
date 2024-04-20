@@ -34,3 +34,9 @@ Leads to above reference
 Google Search String: [remove upstream git](https://www.google.com/search?q=remove+upstream+git&oq=remove+upstream&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCDM5NjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
 
 ____
+
+```bash
+git remote remove origin
+```
+
+[How to remove remote origin from a Git repository | StackOverflow](https://stackoverflow.com/questions/16330404/how-to-remove-remote-origin-from-a-git-repository)
