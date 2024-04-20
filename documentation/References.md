@@ -72,3 +72,7 @@ git remote add upstream github-repository-url-ending-with.git
 [Git removing upstream from local repository | StackOverflow](https://stackoverflow.com/questions/19801455/git-removing-upstream-from-local-repository)
 
 ____
+
+Google Search String: [how to remove an upstream git](https://www.google.com/search?q=how+to+remove+an+upstream+git&oq=how+to+remove+an+upstream+git&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyCAgBEAAYFhgeMggIAhAAGBYYHjINCAMQABiGAxiABBiKBTIGCAQQRRhA0gEINjA4OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+
+____
