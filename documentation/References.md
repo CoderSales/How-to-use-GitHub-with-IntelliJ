@@ -60,3 +60,7 @@ ____
 Google Search String: [git set remote](https://www.google.com/search?q=git+set+remote&newwindow=1&sca_esv=a5add67506ee7398&sca_upv=1&sxsrf=ACQVn08k-jAFpHkUUF0G6P58Uu5tbAhQTg%3A1713617780949&ei=dLsjZoXKObaphbIP7YiBmAY&ved=0ahUKEwiF1PTY69CFAxW2VEEAHW1EAGMQ4dUDCBA&uact=5&oq=git+set+remote&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmdpdCBzZXQgcmVtb3RlMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMg0QABiABBiwAxhDGIoFMg0QABiABBiwAxhDGIoFSNAMUK4IWK4IcAF4AJABAJgBjgSgAb8EqgEFMS41LTG4AQPIAQD4AQGYAgKgApcEmAMA4gMFEgExIECIBgGQBgqSBwUxLjQtMaAHigs&sclient=gws-wiz-serp)
 
 ____
+
+Google Search String: [how to remove an upstream git](https://www.google.com/search?q=how+to+remove+an+upstream+git&oq=how+to+remove+an+upstream&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg5MggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQg0MDE2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
+
+____
