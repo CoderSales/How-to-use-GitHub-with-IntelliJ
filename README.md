@@ -14,6 +14,10 @@ Go to git bash
 git branch --set-upstream-to=origin/main
 ```
 
+```bash
+git pull origin main
+```
+
 ## References
 
 
