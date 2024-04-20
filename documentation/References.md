@@ -56,3 +56,7 @@ git remote add origin insert-a-repository-url.git
 [git - remote add origin vs remote set-url origin | StackOverflow](https://stackoverflow.com/questions/42830557/git-remote-add-origin-vs-remote-set-url-origin)
 
 ____
+
+Google Search String: [git set remote](https://www.google.com/search?q=git+set+remote&newwindow=1&sca_esv=a5add67506ee7398&sca_upv=1&sxsrf=ACQVn08k-jAFpHkUUF0G6P58Uu5tbAhQTg%3A1713617780949&ei=dLsjZoXKObaphbIP7YiBmAY&ved=0ahUKEwiF1PTY69CFAxW2VEEAHW1EAGMQ4dUDCBA&uact=5&oq=git+set+remote&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmdpdCBzZXQgcmVtb3RlMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMg0QABiABBiwAxhDGIoFMg0QABiABBiwAxhDGIoFSNAMUK4IWK4IcAF4AJABAJgBjgSgAb8EqgEFMS41LTG4AQPIAQD4AQGYAgKgApcEmAMA4gMFEgExIECIBgGQBgqSBwUxLjQtMaAHigs&sclient=gws-wiz-serp)
+
+____
