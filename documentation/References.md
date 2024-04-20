@@ -64,3 +64,11 @@ ____
 Google Search String: [how to remove an upstream git](https://www.google.com/search?q=how+to+remove+an+upstream+git&oq=how+to+remove+an+upstream&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg5MggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQg0MDE2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
 
 ____
+
+```bash
+git remote add upstream github-repository-url-ending-with.git
+```
+
+[Git removing upstream from local repository | StackOverflow](https://stackoverflow.com/questions/19801455/git-removing-upstream-from-local-repository)
+
+____
